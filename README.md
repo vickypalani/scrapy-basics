@@ -1,1 +1,1 @@
-A basic project that involved scraping data with Scrapy and storing it in Postgresql
+A basic project that involves scraping data with Scrapy and storing it in Postgresql
